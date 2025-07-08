@@ -2,8 +2,9 @@
 มีรายละเอียดดังนี
  - ให้สร้างฐานข้อมูลชื่อ รหัสประจำตัวนักศึกษาแล้วตามด้วย exam เช่น 673109999exam
  - แล้วนำตารางที่ให้มาเข้าสู่ฐานข้อมูล 
-
-    ตาราง  products
+----------------------------------------
+**    ตาราง  products**
+---------------------------------------
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
@@ -75,8 +76,9 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
-
- ตาราง users
+---------------------------------------------
+** ตาราง users**
+ -------------------------------------------
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
